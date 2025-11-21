@@ -1,2 +1,1 @@
-# jetbot_delivery
-uts lokalisasi
+Jetbot Delivery package. See canvas for full README.
